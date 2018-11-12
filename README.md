@@ -28,6 +28,24 @@ Lançamento curso Omni Stack da RocketSeat
 
 [assets-react-native](docs/assets-react-native.zip)
 
+Comandos:
+
+```
+yarn add react-navigation
+
+react-native start --reset-cache
+
+yarn add react-native-vector-icons
+
+react-native link react-native-vector-icons
+
+react-native run-android
+
+yarn add axios
+
+yarn add socket.io-client
+```
+
 # 09.11 - Funcionalidades avançadas
 
 # 11.11 - Tirando todas as dúvidas
